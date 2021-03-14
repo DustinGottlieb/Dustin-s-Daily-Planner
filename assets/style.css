@@ -1,0 +1,65 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    background-color: #1BADD8;
+}
+
+.jumbotron {
+    text-align: center;
+    background: linear-gradient(to top, #1BADD8, #e005c3a6);
+    color: black;
+    border-radius: 0;
+}
+
+.container {
+    background-color: yellowgreen;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.time-block {
+    text-align: center;
+    border-radius: 15px;
+    border-radius: 15px 0px 0px 15px;
+    background-color: transparent;
+}
+
+.row {
+    height: 50px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 1em;
+    line-height: 1.5;
+    border-radius: 10px;
+}
+
+.fa-save {
+    border-radius: 20px;
+    background-color: yellowgreen;
+    color: black;
+    font-size: 2em;
+}
+
+.fa-saveClick {
+    font-size: 2em;
+    background-color: #e005c3a6;
+}
+
+.fas:hover {
+    font-size: 3em;
+}
+
+.plannerText {
+    font-size: 12pt;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+}
+
+.fas:hover {
+    font-size: 3em;
+}
